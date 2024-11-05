@@ -13,3 +13,9 @@ seaborn>=0.12.2
 sqlalchemy>=1.4.37
 sympy>=1.10.1
 xgboost
+gunicorn
+Flask
+joblib
+nltk
+scikit-learn
+gunicorn
